@@ -1,0 +1,2285 @@
+    /**************thanks model css  *****************/
+.thankyou-modal .modal-content {
+    background-color: #0E1A2A;
+}
+.thankyou-modal .modal-body {
+    padding: 58px 80px;
+}
+.thankyou-modal .modal-dialog.modal-dialog-centered{
+
+    max-width: 646px;
+}
+.mt-10-7{
+    margin-top: -17px;
+}
+    /* .modelbody .thanks-mdl-body{
+        width: 646px;
+        height: 656px;
+        border-radius: 12px;
+        border: 0px;
+        background-color: #0E1A2A;
+    
+    } */
+    .copy-button{
+        padding: 0px;
+        color:transparent;
+        border:none;
+    }
+    
+    .mybody .paragraph{
+        color: red; 
+        font-size: 45px;
+    }
+    .thanks-content .thanks-heading-1{
+        font-family: 'Nunito', sans-serif;
+        font-size: 42px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.48;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+    }
+    .thanks-content .thanks-heading-2{
+    font-family: 'Nunito', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    }
+    .thanks-con-position{
+        position: relative;
+        bottom: 46px;
+    }
+    .main-heading-content .main-heading .main-heading-1{
+        font-family: 'Nunito', sans-serif;
+        font-size: 56px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.11;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+    }
+    .main-heading-content .main-heading .main-heading-2{
+        font-family: 'Nunito', sans-serif;
+        font-size: 24px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+    }
+    .main-heading .pt-25{
+        padding-top: 25px;
+    }
+    .thanks-form-content .thanks-form ::placeholder{
+        font-family: 'Nunito', sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.78;
+        letter-spacing: normal;
+        text-align: left;
+        color: #ffffff;
+    }
+    .thanks-form-content .thanks-form .form-control{
+        box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.32);
+        background-color: #343E4B;
+    }
+    .thanks-form-content .thanks-form .btn{
+        font-family: 'Nunito', sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.38;
+        letter-spacing: normal;
+        text-align: left;
+        color: #ffffff;
+    }
+    .thanks-form-content .thanks-form .btn-outline-secondary{
+    border-radius: 4px;
+    background-color: #6fda44;
+    }
+    .modelbody .close{
+        position: absolute;
+        right: 0;
+        top: 15px;
+        left: 584px;
+        z-index: 99;
+        opacity: 1;
+    }
+    .modal-body.thanks-mdl-body .mt-35-1{
+        margin-top: -35px;
+    }
+    .pt-38-6{
+        padding-top:38.6px;
+    }
+    .thanks-form .copy {
+        position: absolute;
+        left: 242px;
+        right: 0;
+        top: 21px;
+    }
+    /* ENDS */
+    
+/* MODEL BODY 2 */
+    .ban-line-8{
+        line-height: 0.9;
+    }
+    .txt-subline.h-37::after {
+        height: 30px;
+    }
+    .mt-50-4{
+margin-top: -54px;
+    }
+    .mt-32{
+        margin-top: -32px;
+    }
+    .mt-43{
+        margin-top: -45px;
+    padding-left: 44px;
+      }
+    .wait-modal .modal-content {
+        background-color: #0E1A2A;
+    }
+    .wait-modal .modal-body {
+        padding: 59px 89px;
+    }
+    .wait-modal .modal-dialog.modal-dialog-centered{
+
+        max-width: 646px;
+    }
+    .mybody .paragraph{
+        color: red; 
+        font-size: 45px;
+    }
+    .thanks-content .thanks-heading-1{
+        font-family: 'Nunito', sans-serif;
+        font-size: 42px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.48;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+    }
+    .thanks-content .thanks-heading-2{
+    font-family: 'Nunito', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    }
+    .thanks-con-position{
+        position: relative;
+        bottom: 46px;
+    }
+    .main-heading-content .main-heading .wait-heading-1{
+
+        text-shadow: 0 10px 20px rgba(0, 0, 0, 0.32);
+        font-family: 'Nunito', sans-serif;
+        font-size: 154px;
+        font-weight: 800;
+        font-stretch: normal;
+        font-style: normal;
+        letter-spacing: -6.16px;
+        color: #ffffff;
+    }
+    .main-heading-content .main-heading .wait-heading-2{
+        font-family: 'Nunito', sans-serif;
+        font-size: 42px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.48;
+        letter-spacing: 15.6px;
+        text-align: center;
+        color: #ffffff;
+    }
+    .dollar{
+        text-shadow: 0 10px 20px rgba(0, 0, 0, 0.32);
+        font-family: 'Nunito', sans-serif;
+        font-size: 92px;
+        font-weight: 800;
+        font-stretch: normal;
+        font-style: normal;
+
+        letter-spacing: normal;
+  
+        color: #ffffff;
+    }
+    .main-heading .pt-25{
+        padding-top: 25px;
+    }
+    .thanks-form-content .thanks-form ::placeholder{
+        font-family: 'Nunito', sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.78;
+        letter-spacing: normal;
+        text-align: left;
+        color: #ffffff;
+    }
+    .thanks-form-content .thanks-form .btn{
+        font-family: 'Nunito', sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.38;
+        letter-spacing: normal;
+        text-align: left;
+        color: #ffffff;
+    }
+    .thanks-form-content .thanks-form .btn-outline-secondary{
+    border-radius: 4px;
+    background-color: #6fda44;
+    }
+    .modelbody2 .close{
+        position: absolute;
+        right: 0;
+        top: 15px;
+        left: 584px;
+        z-index: 99;
+        opacity: 1;
+    }
+    .modal-body2.thanks-mdl-body .mt-35-1{
+        margin-top: -35px;
+    }
+    .pt-38-6{
+        padding-top:38.6px;
+    }
+/* ENDS */
+    
+    body{
+        background-color: #ffffff;
+    }
+    
+    .mt-40-3 {
+        margin-top: 40.3px;
+    }
+    .mt-71-3{
+        margin-top: 71.3px;
+    }
+    .mt-3-88{
+        margin-top: 20px;
+    }
+    .mt-89{
+        margin-top: 88px;
+    }
+    .mt-65{
+        margin-top: 65px;
+    }
+    
+    .mt-183{
+        margin-top: -183px;
+    }
+    
+    .mt-45-a{
+        margin-top:45px ;
+    }
+    .mt-45{
+        margin-top:45px;
+    }
+    .mt-67{
+        margin-top:60.2px;
+    }
+    .mt-75-9{
+        margin-top: 75.9px !important;
+    }
+    .mt-167{
+        margin-top:167px;
+    }
+    .mt-69-9{
+        margin-top: 69.9px;
+    }
+    
+    .mt-29{
+        margin-top: 29.5px;
+    }
+    .mt-pg-29{
+        margin-top: 29.5px;
+    }
+    .get-mt-286{
+        margin-top:286.5px;
+    }
+    .mt-103{
+        margin-top: -103px;
+    }
+    .mt-28-4 {
+        padding: 6px 0px 28px 0px;
+    }
+    .mt-4-40{
+        margin-top: -81px;
+    }
+    
+    .mt-146{
+        margin-top:146.8px;
+    }
+    .mt-57{
+
+        margin-top: 4.4px;
+    }
+    .mt-117{
+        margin-top: 36.5px;
+        float: none;
+    }
+    .mt-142{
+        margin-top: 142px;
+    }
+    
+    .mt-69{
+        margin-top: 69.8px;
+    }
+    
+    .mt-58-6{
+        margin-top: 58.6px;
+    }
+    .get-pb-86{
+        padding-bottom: 86px;
+    }
+    .mt-60-a{
+        margin-top: -60px !important;
+    }
+    .pt-60-2{
+        padding-top: 60.2px;
+    }
+    .pb-95-3{
+        padding-bottom: 95.3px;
+    }
+    .pb-60-3{
+        padding-bottom: 60px;
+    }
+    .banner-landing{
+        height: 698px;
+        background-image: url('ban-land.jpg');
+        padding-top:40px;
+    }   
+    .banner-landing .tlt-text{
+        padding-top: 122px;
+    }
+    .section-banner {
+        position: relative;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+    }
+    .section-banner .container{
+        max-width: 1360px;
+    }
+    .tlt-text .pt-1{
+        font-family: 'Nunito', sans-serif;
+        font-size: 18px;
+        font-weight: 800;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.78;
+        letter-spacing: 2.7px;
+        color: #ffffff;
+    }
+    .tlt-text .pt-2{
+        font-family: 'Nunito', sans-serif;
+        font-size:72px;
+        font-weight: 800;
+        line-height: 1.78;
+        letter-spacing: normal;
+        color: #ffffff;
+    }
+    .life-coach-1{
+        max-width: 532px;
+        box-shadow: 0 62px 70px 0 rgba(143, 139, 139, 0.33);
+    }
+    .life-coach-2{
+        max-width: 665px;
+        box-shadow: 0 62px 70px 0 rgba(143, 139, 139, 0.33);
+    }
+    .display{
+        display: flex;
+        flex-shrink: 0;
+        padding-left: 12px;
+        padding-right: 5px;
+    }
+    .tlt-text .pt-3{
+        font-family: 'Nunito', sans-serif;
+        font-size: 32px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.31;
+        letter-spacing: normal;
+        color: #ffffff;
+    }
+   
+    .card-landing{
+        /* padding: 0px 76px 46px; */
+        border-radius: 18px;
+        box-shadow: 0 30px 60px 0 rgba(0, 0, 0, 0.12);
+        background-color: rgba(255, 255, 255, 0.96);
+        max-width: 532px;
+        margin-left:auto;
+    }
+
+    .card-landing .form-control{
+        border-color: rgba(14, 26, 42, 0.04);
+    }
+    .card-landing .form-control:focus{
+        border-color: #6fda44;
+    }
+        
+    .btn-success-shadow{ 
+        box-shadow: 0 10px 20px 0 rgba(111, 218, 68, 0.24); 
+    }
+    .btn-dark-shadow-lg{
+        box-shadow: 0px 15px 27px 0 rgba(115, 115, 115, 0.6);
+    }
+    .card-body {
+        flex: 1 1 auto;
+    }
+    .card-body {
+        padding: 0;
+    }
+    .form-btn{
+
+        position: relative;
+    }
+    /* text subline and ban lines starts */
+    .section-banner .ban-line{
+        line-height: 0.9;
+    }
+    .txt-subline {
+        display: inline-block;
+        position: relative;
+        z-index: 2;
+    }
+    .txt-subline.danger::after {
+        background-color: #f13231;
+    }
+    .txt-subline.h-15::after {
+        height: 15px;
+    }
+    .txt-subline.h-20::after {
+        height: 20px;
+    }
+    .txt-subline.h-25::after {
+        height: 10px;
+    }
+    .txt-subline.h-8::after {
+        height: 7px;
+    }
+    .txt-subline.h-9::after {
+        height: 11px;
+    }
+    .txt-subline.h-11::after {
+        height: 11px;
+    }
+    .txt-subline.h-7::after {
+        height: 7px;
+    }
+    .ban-line1{
+        line-height: 1.8;
+    }
+    .ban-line2{
+        line-height: 1.3;
+    }
+    .ban-line3{
+        line-height: 1.1;
+    }
+    .ban-line4{
+        line-height: 1;
+    }
+    .ban-line5{
+        line-height: 1.3;
+    }
+    .txt-subline {
+        display: inline-block;
+        position: relative;
+        z-index: 2;
+    }
+    .txt-subline.success::after {
+        background-color: rgb(117, 214, 60);
+    }
+    .txt-subline1.h-12::after {
+        height: 12px;
+    }
+    /* ENDS */
+    /* .form-col .form-control {
+        box-shadow: none;
+        max-width: 100%;
+        resize: none;
+        font-family: 'Nunito', sans-serif;
+        padding: 6px 15px;
+        line-height: 1.3;
+        color: rgba(0, 0, 0, 0.7);
+        height: auto;
+        background-color: #f6f6f6;
+        padding: 15px 20px;
+        border: 0;
+        font-size: 18px;
+        line-height: 1.78;
+        border-radius: 4px;
+    } */
+    .section.section-feature{
+
+        margin-top: 216px;
+        background-color: #F4FAFF;
+    }
+    .top-container .feature-container{
+        margin-top: -152px;
+    }
+    /* SECOND SECTION CSS */
+    .section-2nd .container{
+        max-width: 760px;
+    }
+    .pb-91-1{
+        padding-bottom: 91.1px;
+    }
+    .back-color{
+        background-color: #f4faff;
+    }
+    .rectangle-txt a{
+        text-decoration: underline;
+    }
+
+     .section-2nd-3.mt-146{
+        margin-top: 120px;
+    }
+
+    .second-sec-heading{
+        font-family: 'Nunito', sans-serif;
+        font-size: 42px;
+        font-weight: 800;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.78;
+        letter-spacing: -0.84px;
+        text-align: center;
+        color: #000000;
+        padding: 0 0px 0 0px;
+    }
+    .second-sec-heading2{
+        font-family: 'Nunito', sans-serif;
+        font-size: 42px;
+        font-weight: 800;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.24;
+        letter-spacing: -0.84px;
+        text-align: center;
+        color: #000000;
+        padding: 0 0px 0 0px;
+    }
+    .section-2nd-4 .second-sec-text .second-sec-heading {
+        font-family: 'Nunito', sans-serif;
+        font-size: 42px;
+        font-weight: 800;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: -0.84px;
+        text-align: center;
+        color: #000000;
+        padding: 0 0px 0 0px;
+    }
+    .second-sec-prg{
+        opacity: 0.7;
+        font-family: 'Nunito', sans-serif;
+        font-size: 22px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.73;
+        letter-spacing: normal;
+        text-align: center;
+        color: #000000;
+    }
+    /* changes by faisal */
+    .PB-69-8 {
+        padding-bottom: 69.8px;
+    }
+    
+    .sub-section .container{
+        max-width: 760px;
+    }
+    .sub-sec-heading{
+        font-family: 'Nunito', sans-serif;
+        font-size: 36px;
+        font-weight: 800;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.31;
+        letter-spacing: -0.84px;
+        text-align: center;
+        color: #000000;
+    }
+    .section .container-mid{
+        max-width: 1360px;
+        margin: 0 auto;
+    }
+    .padd {
+        padding: 0 74px;
+    }
+    .pb-100{
+        padding-bottom: 100px;
+    }
+    .mb-78{
+        margin-bottom: 78px;
+    }
+    .mid-lvl-cont-1 {
+        opacity: 0.75;
+        font-family: 'Nunito', sans-serif;
+        font-size: 18px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 2;
+        letter-spacing: normal;
+        text-align: left;
+        color: #000000;
+        padding-right: 217px;
+        padding-top: 0px;
+        margin-bottom: 32px;
+    }
+    .mid-lvl-cont-2{
+        width: 456px;
+        height: 79px;
+        font-family: 'Nunito', sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.6;
+        letter-spacing: normal;
+        text-align: left;
+        color: #0e1a2a;
+    }
+    .circle{
+        width: 42px;
+        height: 42px;
+        border-radius: 50%;
+        color: #070707;
+        border: 2px solid rgba(8, 12, 52, .2);
+        font-size: 16px;
+        font-weight: 800;
+        display: inline-block;
+        /* float: left; */
+        text-align: center;
+        line-height: 42px;
+        position: absolute;
+        left: 22px;
+        top: 0;
+    }
+    .rectangle{
+        /* width: 540px; */
+        /* opacity: 0.16; */
+        border-radius: 26px;
+        border: solid 1px #E0E5EA;
+        background-color:#f4faff;
+    }
+    .rectangle-txt{
+        font-family: 'Nunito', sans-serif;
+        font-size: 14px;
+        font-weight: 800;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 2;
+        letter-spacing: normal;
+        color: #000000;
+    }
+    .pl1-100{
+        /* padding: 0px 0px 0 78px; */
+    }
+    .ecllips{
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        box-shadow: 0 3px 6px 0 rgba(14, 26, 42, 0.32);
+        background-color: #6fda44;
+        display: inline-block;
+        line-height: 1.2;
+    }
+    .heading-2 {
+        font-family: 'Nunito', sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.4;
+        letter-spacing: normal;
+        text-align: left;
+        color: #000000;
+        padding-right: 34px;
+    }
+    .img-listing {
+        padding-top: 64px;
+        text-align: right;
+        margin-right:-40px;
+    }
+    .prg-2{
+        opacity: 0.75;
+        font-family: 'Nunito', sans-serif;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.75;
+        letter-spacing: normal;
+        text-align: left;
+        color: #000000;
+    }
+    .pl-60{
+        padding-left: 35px;
+    }
+    .container-ptn{
+        max-width: 1360px;
+        margin: 0 auto;
+        margin-top: -43px;
+        padding: 0 0 0 33px;
+    }
+
+    /* SECTION 3 CSS */
+
+    .main-third-sec .container{
+        max-width: 1360px;
+    }
+    .section-2nd-1 .container{
+        max-width: 767px;
+    }
+    .section-2nd-2 .container{
+        max-width: 767px;
+    }
+    .section-2nd-3 .container{
+        max-width: 767px;
+    }
+    .section-2nd-4 .container{
+        max-width: 767px;
+    }
+    .main-third-sec .img-dsp-1{
+        width:356.4px;
+        height:237.6px;
+        position: absolute;
+        top:24px;
+        left:239px;
+    }
+    .main-third-sec .img-dsp-2 {
+        width: 394.5px;
+        height: 296.1px;
+        position: absolute;
+        top: 158px;
+        left: 81px;
+    }
+    .main-third-sec .img-dsp-3 {
+        width: 294.7px;
+        height: 361.7px;
+        position: absolute;
+        top: 210px;
+        left: 332px;
+    }
+    .ol-image {
+        /* list-style-image:url('tick-mark.svg'); */
+        list-style-type: none;
+    }
+    .list-prg{
+
+        opacity: 0.75;
+        font-family: 'Nunito', sans-serif;
+        font-size: 18px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.78;
+        letter-spacing: normal;
+        text-align: left;
+        color: #000000;
+    }
+    .ol-image{
+        padding-left: 40px;
+        padding-right: 92px;
+    }
+    .ol-image .list-itm{
+        margin:31px 0;
+        position: relative;
+        padding-left: 66px;
+    }
+    .ol-image .list-itm img {
+        position: absolute;
+        top: 1px;
+        left: 0;
+    }
+    .listing{
+        height:540px;
+    }
+    
+    
+    .btn-green-shadow-lg {
+        box-shadow: 0px 15px 27px 0 rgba(111, 218, 68, 0.52);
+    }
+    /* changes by faisal */
+    .rounded-img-f img {
+        /* height: auto; */
+        max-width: 85px;
+        border-radius: 50%;
+    }
+    /******************************** SECTION LOVE *********************************************************************** */
+    .cust-love-banner{
+        height: 525px;
+        max-width: 1560px;
+        margin: 0 auto;
+        background-image: url('cust1-love.png');
+        position: relative;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        margin-bottom: 20px;
+    }
+    
+    .love-heading{
+        font-family: 'Nunito', sans-serif;
+        font-size: 52px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.19;
+        letter-spacing: -0.52px;
+        text-align: center;
+        color: #ffffff;
+    }
+    .pt-240{
+        padding-top: 160px;
+        max-width: 800px;
+        margin: 0 auto;
+    }
+    .cust-lov-dsp-heading{
+        font-family: 'Nunito', sans-serif;
+        font-size: 24px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: normal;
+        text-align: left;
+        color: #000000;
+        padding: 0 10px;
+    }
+    .cust-lov-dsp-prg{
+        font-family: 'Nunito', sans-serif;
+        font-size: 18px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.78;
+        letter-spacing: normal;
+        text-align: left;
+        color: #000000;
+        padding: 0 13px;
+    }
+    .love-2nd-heading{
+        font-family: 'Nunito', sans-serif;
+        font-size: 22px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.45;
+        letter-spacing: normal;
+        text-align: left;
+        color: #000000;
+    }
+    .love-2nd-prg{
+        opacity: 0.75;
+        font-family: 'Nunito', sans-serif;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 0;
+        letter-spacing: normal;
+        text-align: left;
+        color: #29292b;
+    }
+    .pd-11{
+        padding: 18px;
+    }
+    .lov-desc-svg{
+        height: 38.2px;
+    }
+    /******************* SECTION GETTING STARTTED************************************************** */
+    .get-start-heading{
+        font-family: 'Nunito', sans-serif;
+        font-size: 52px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1;
+        letter-spacing: -1.04px;
+        text-align: left;
+        color: #000000;
+    }
+    .get-start-prg{
+        opacity: 0.75;
+        font-family: 'Nunito', sans-serif;
+        font-size: 18px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.78;
+        letter-spacing: normal;
+        text-align: left;
+        color: #000000;
+        padding-right: 93px;
+    }
+    .gray-line {
+        width: 101px;
+        height: 2px;
+        background-color: rgb(216, 212, 212);
+        background-color: #0e1a2a;
+        opacity: 0.12;
+    }
+    .line-style{
+        padding: 48px 0px 0 311px;
+    }
+    .sub-heading-red{
+        font-family: 'Nunito', sans-serif;
+        font-size: 24px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: normal;
+        text-align: center;
+        color: #0e1a2a;
+        padding: 0px 151px 0 161px;
+    }
+    /******************* LAST SECTION *****************************************/
+    .mybox .section-countup-st2{
+        padding: 77px 0 75px;
+        background:url("counter-bg2.jpg") no-repeat;
+        background-size: cover;
+        border-radius: 18px;
+    }
+    .mybox .section-countup-st2 .container{
+        max-width: 1130px;
+    }
+
+    .life-coach-heading{
+        line-height: 1.75;
+        letter-spacing: -0.32px;
+        text-align: center;
+        font-size: 32px;
+        color: #0e1a2a;
+        margin-bottom: 35px;
+    }
+    .pd-36{
+        padding-left: 36px;
+    }
+    .slider-image-1{
+        width: 0px;
+    }
+    .countup-box .countup-desp .lastcon-para {
+        font-size: 52px;
+        font-weight: bold;
+        line-height: 1.2;
+        letter-spacing: -0.42px;
+        color: #ffffff;
+        text-transform: capitalize;
+    }
+    .form-st2 input[type="email"]::-webkit-input-placeholder {
+        color: transparent;
+    }
+    .form-st2 input[type="text"]::-webkit-input-placeholder {
+        color: transparent;
+    }
+    .form-st2 input[type="text"]::placeholder { 
+        color: transparent; /* Modern browsers */
+    }
+    .form-st2 input[type="email"]::placeholder { 
+        color:transparent; /* Modern browsers */
+    }
+    .video-slide-text .entry-title {
+        position: relative;
+    }
+    .video-slide .video-slide-text{
+        position:relative;
+    }
+    .video-slide .video-slide-text .play-icon{
+        /* position: absolute; */
+        top: -119px;
+        /* left: 0; */
+        /* right: 0; */
+        -webkit-transform: translate(-50%,-50%);
+        -moz-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%);
+        box-shadow: 0 30px 60px 0 rgba(0, 0, 0, 0.26);
+        border-radius: 50%;
+        }
+        .video-slider.owl-carousel .owl-stage {
+            position: relative;
+            -ms-touch-action: pan-Y;
+            touch-action: manipulation;
+            -moz-backface-visibility: hidden;
+            padding: 60px 0;
+        }
+        .video-slider .video-slide-text .slider-heading a{
+
+        font-family: 'Nunito', sans-serif;
+        font-size: 42px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1;
+        letter-spacing: normal;
+        text-align: center;
+        color: white;
+        text-align: center;
+        position: absolute;
+        left:0;
+        right: 0;
+        bottom: -8px;
+    }
+    .owl-dots{
+        text-align: center;
+       }
+       .owl-carousel .owl-dots.disabled{
+        display: block;
+    }
+
+    .video-slider .owl-item.center .video-slide::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        height: 216px;
+        opacity: 0.53;
+        border-radius: 12px;
+        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), #000000);
+    }
+    .video-slider .owl-item.active.center .video-slide{
+        transform: scale(1);
+
+    }
+    .video-slide{
+        transform: scale(0.8);
+        transition:all 0.5s ease;
+    }
+    .slider-image-1{
+       height:250px;
+       /* width: 150px;  */
+    }
+    .video-slide-text{
+        position: absolute;
+        bottom: 24px;
+        left: 0;
+        right: 0;
+        opacity: 0;
+        transform: translateY(-30px);
+        transition: all 0.3s linear;
+    }
+    
+    .video-slider .owl-item.center .video-slide-text{
+        opacity: 1;
+    }
+    .video-slider .owl-item.center img{
+        box-shadow: 0 45px 35px -26px rgba(0, 0, 0, 0.29);
+    }
+      .pd-lst-sec{
+          text-align: right;
+          margin-top: 42px;
+      }
+    
+    .video-slider .owl-dots {
+        text-align: center;
+        margin-bottom: 0;
+    }
+    .qa-section{
+        width: 100%;
+        margin-top: 210px;
+      background: linear-gradient(288deg, rgba(81, 255, 185, 1) 9%, rgba(76, 178, 255, 1) 39%, rgba(0, 187, 255, 1) 88%);
+    }
+    .lifecoach-accordian-heading {
+        font-size: 19px;
+        font-weight: bold;
+        line-height: 1.45;
+        color: #000;
+        position: relative;
+
+    }
+    .last-section-container{
+        max-width: 1595px;
+        padding: 0 15px;
+        margin: 0 auto;
+    }
+    .banner-landing .form-22 .btn{
+        font-size: 32px;
+        line-height: 1.9;
+    } 
+<<<<<<< HEAD
+    .for-btn .btn{
+        line-height: 1.6;
+=======
+    /* .for-btn .btn{
+        font-size: 18px;
+        line-height: 0.5;
+        
+    } */
+    /* changes by faisal */
+    .for-btn .btn {
+        font-size: 18px;
+        line-height: 2;
+>>>>>>> 34a704d31922f1bd58151e50c765ff74f0f7fb01
+    }
+    .form-st2 .send-btn .btn{
+        font-size: 20px;
+        line-height: 1.35;
+        padding: 19px 48px;
+    }
+    .rectangle{
+        display: inline-block;
+        padding: 0px 30px 0 30px;
+    }
+    
+/*********************** MEDIA QUERIES*************************************** */
+/*********************** media query for 1900px***************************** */
+@media screen and (max-width: 1900px){
+.video-slider .video-slide-text .slider-heading a{
+    display:none;
+}
+}
+@media screen and (max-width: 1348px){
+    .tlt-text .pt-2 {
+        font-size: 65px;
+    } 
+    .mid-lvl-cont-1 {
+        opacity: 0.75;
+        font-family: 'Nunito', sans-serif;
+        font-size: 18px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 2;
+        letter-spacing: normal;
+        text-align: left;
+        color: #000000;
+        padding-right: 0px;
+        padding-top: 0px;
+        margin-bottom: 32px;
+    } 
+}
+
+/*********************** media query for 992px***************************** */
+
+@media screen and (max-width: 1200px){
+    
+    .tlt-text .pt-2 {
+        font-size: 40px;
+        line-height: 1.78;
+    }
+    .tlt-text .pt-3 {
+        font-size: 20px;
+        line-height: 1.31;
+    }
+
+    .ol-image{
+        padding-left:20px;
+        padding-right:0;
+    }
+}
+
+/*********************** media query for 991px***************************** */
+
+@media screen and (max-width: 991px){
+
+    .banner-landing{
+        height:auto;
+        background: none;
+        padding-top: 0;
+    }
+    .banner-landing .container{
+        padding: 0;
+    }
+    .banner-landing .row{
+        margin: 0;
+    }
+    .banner-landing .col-lg-5{
+        background-image: url('ban-land.jpg');
+        background-size:cover;    
+        background-position: center bottom;
+        height: 580px;
+        text-align: center;
+        padding: 90px 32px 0;
+        align-items: stretch !important;
+    }
+
+    .card-landing{
+        margin-top:-150px;
+    }
+
+    .banner-landing .tlt-text{
+        max-width: 600px;
+        margin:0 auto;
+        padding-top: 0;
+    }
+
+    .feature-container-common.padd{
+        text-align: center;
+        padding: 0 32px;
+    }
+
+    .img-listing{
+        text-align: center;
+    }
+    .mt-500{
+        margin-top: 500px;
+    }
+    .container-ptn{
+        max-width: 1360px;
+        margin: 0 auto;
+        margin-top: -30px;
+    }
+   
+    .pl1-100{
+        padding-left: 50px;
+    }
+    
+    
+    .line-style {
+        padding: 48px 0px 0 293px;
+    }
+}
+/*********************** media query for 767px***************************** */
+
+@media screen and (max-width: 767px){
+
+    .pl1-100{
+        padding-left: 50px;
+    }
+    .pt-240 {
+        padding-top: 100px;
+    }
+    
+    .mt-28-4 {
+        padding: 64px 0px 38.5px 0px;
+    }
+    .pt-88-6{
+        padding-top: 20px;
+    }
+    
+    .pd-last-cont {
+        padding: 0 100px 0 100px;
+    }
+
+    .mybox .container-2{
+        padding: 0 15px;
+    }
+    .countup-box .countup-desp .lastcon-para{
+        font-size: 28px;
+        line-height: 1.29;
+        letter-spacing: -0.28px;
+        text-align: center;
+    }
+    .countup-box .countup-title .last-h5 {
+        opacity: 0.7;
+        font-family: 'Nunito', sans-serif;
+        font-size: 18px;
+        line-height: 1.78;
+        color: #ffffff;
+        font-weight: 400;
+        text-align: center;
+    }
+    .pd-lst-sec{
+        text-align: center;
+        /* margin-top: 42px; */
+    }
+    .img-listing {
+        min-height: auto;
+        padding: 0;
+        margin: 0 -15px;
+    }
+    .line-style {
+        padding: 48px 0px 0 293px;
+    }
+
+    .video-slider{
+        padding: 0 32px;
+    }
+    .video-slide{
+        transform: scale(1);
+    }
+    .video-slide .video-slide-text .play-icon{
+        top: -132px;
+        -webkit-transform: translate(-50%,-50%);
+        -moz-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%);
+        box-shadow: 0 30px 60px 0 rgba(0, 0, 0, 0.26);
+        border-radius: 50%;
+    }
+    .video-slider .owl-item.center .video-slide::after{
+        display: none;
+    }
+
+    .banner-landing .form-22 .btn {
+        font-size: 18px;
+        line-height: 1.33;
+    }
+   
+
+    .banner-landing .col-lg-5{
+        height: 510.4px;
+        background-image: url('ban-land-mobile.jpg');   
+        padding-top:0;
+        align-items: center !important;      
+    } 
+    
+    .banner-landing .form-col{
+        margin-top:40px;
+    }
+    .video-slide .video-slide-text .play-icon {
+        top: -47px;
+        -webkit-transform: translate(-50%,-50%);
+        -moz-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%);
+        box-shadow: 0 30px 60px 0 rgba(0, 0, 0, 0.26);
+        border-radius: 50%;
+    }
+    .form-st2 .send-btn .btn {
+        font-size: 18px;
+        line-height: 1.35;
+        padding:11px 26px;
+    }
+    .mt-88{
+        margin-top: 800px;
+    }
+    .mt-40{
+        margin-top:40px;
+    }
+    .mb-78 {
+        margin-bottom: 50px;
+    }
+    .mt-96{
+        margin-top:96px;
+    }
+    .mt-3-88{
+        margin-top: 88px;
+    }
+    .mid-lvl-cont-1{
+        opacity: 0.6;
+        font-size: 14px;
+        line-height: 1.57;
+    }
+    
+    .second-sec-heading{
+        line-height: 1.4;
+    }
+
+    .mid-lvl-cont-2{
+        font-size: 16px;
+        line-height: 1.5;
+    }
+    .sub-sec-heading {
+        font-family: 'Nunito', sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.4;
+        letter-spacing: normal;
+        text-align: center;
+        color: #000000;
+        padding: 18px 0px 0 0px;
+    }
+    .rectangle-txt{
+        font-family: 'Nunito', sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.2;
+        letter-spacing: normal;
+        color: #000000;
+    }
+   
+    .section-banner {
+        position: relative;
+        background-repeat: no-repeat;
+        background-position: bottom;
+        background-size: cover;
+    }
+    .container-ptn{
+        padding: 0 26px 0 24px;
+    }
+    .tlt-text .pt-1{
+        font-family: 'Nunito', sans-serif;
+        font-size: 12px;
+        font-weight: 800;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: 1.8px;
+        text-align: center;
+        color: #ffffff;
+    }
+    .tlt-text .pt-2{
+        font-family: 'Nunito', sans-serif;
+        font-size: 42px;
+        font-weight: 800;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+    }
+    .tlt-text .pt-3{
+        font-family: 'Nunito', sans-serif;
+        font-size: 24px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+    }
+    .control-label {
+        font-family: 'Nunito', sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 2.29;
+        letter-spacing: normal;
+        text-align: left;
+        color: #000000;
+    }
+    .form-st2.form-control {
+        font-family: 'Nunito', sans-serif;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 0;
+        letter-spacing: normal;
+        text-align: left;
+        color: #000000;
+    }
+    .form-22 .dropdown button {
+        padding: 8px 38px;
+        font-size: 16px;
+        line-height: 2.3;
+    }   
+    /* .form-22 .btn {
+        min-width: 190px;
+        line-height: 1.8;
+        font-size: 32px;
+        margin-top: 14px;
+        padding-left: 30px;
+      
+    } */
+    .form-card-22 .card-body {
+        padding: 0 0px 0 0px;
+    }
+    .second-sec-heading2{
+        font-size: 28px;
+        line-height: 1.29;
+        letter-spacing: -0.28px;
+    }
+    .section-2nd-4 .second-sec-text .second-sec-heading{
+        font-size: 28px;
+        line-height: 1.28;
+        padding: 0 10px;
+    }
+
+    .for-btn .btn{
+        padding-left: 25px;
+        line-height: 1.5;
+    }
+    .for-btn .btn .icon-circle {
+        width: 28px;
+        height: 28px;
+    }
+    .for-btn .btn .icon-circle svg{
+        width: 12px;
+    }
+
+    .mt-65{
+        margin-top: 0px;
+    }
+    .mt-69-9{
+        margin-top: 69.9px;
+    }
+
+    .pt-250{
+        padding-top: 63px;
+    }
+    .pl1-100{
+        padding-left: 0px;
+    }
+    .ban-line1{
+        line-height: 2;
+    }
+    .ban-line2{
+        line-height: 2;
+    }
+    .ban-line3{
+        line-height: 1.1;
+    }
+    .list-prg {
+        opacity: 0.6;
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    .ol-image{
+        padding-left: 0;
+    }
+    .ol-image .list-itm{
+        padding-left: 48px;
+        margin: 20px 0;
+    }
+    .ol-image .list-itm img{
+        width: 24px;
+    }
+
+    .section-2nd-3.mt-146{
+        margin-top: 75px;
+    }
+
+    
+    .get-start-sec .mt-142{
+        margin-top: 70px;
+    }
+    
+    .section.section-feature{
+        margin-top: 200px;
+    }
+
+    .get-start-sec .section-feature {
+        margin-top: 70px;
+    }
+
+    .qa-section{
+        margin-top: 50px;
+    }
+    
+
+    .cust-lov-description .row.mt-29{
+        margin:0;
+    }
+    .pt-88-6{
+        padding-top: 53.6px;
+    }
+
+    .cust-love-banner{
+        height: 289px;
+        background-image: url('cust-l-2.jpg');
+        position: relative;
+        background-repeat: no-repeat;
+        background-position: center bottom;
+        background-size: cover;
+    }
+    .love-heading{
+        font-family: 'Nunito', sans-serif;
+        font-size: 32px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.31;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+    }
+    .cust-lov-dsp-heading{
+        font-family: 'Nunito', sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.4;
+        letter-spacing: normal;
+        text-align: left;
+        color: #000000;
+    }
+    .cust-lov-dsp-prg{
+        opacity: 0.6;
+        font-family: 'Nunito', sans-serif;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: -0.08px;
+        text-align: left;
+        color: #000000;
+    }
+    .love-2nd-heading{
+        font-family: 'Nunito', sans-serif;
+        font-size: 18px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.78;
+        letter-spacing: normal;
+        text-align: left;
+        color: #29292b;
+    }
+    .love-2nd-prg{
+        opacity: 0.75;
+        font-family: 'Nunito', sans-serif;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 0;
+        letter-spacing: normal;
+        text-align: left;
+        color: #29292b;
+    }
+    .lov-group-img{
+        height: 52px;
+    }
+    .pd-11{
+        padding:0px 18px;
+    }
+    .lov-desc-svg{
+        height: 32.3px;
+    }
+    .pd-91{
+        padding-left: 48.3px;
+    }
+    .pd-89{
+        padding-left: 51.3px;
+    }
+    .list-itm{
+        margin:0px;
+    }
+    .smile{
+        height:18px;
+    }
+    .mt-29{
+        margin-top: 0px;
+    }
+    .mt-pg-29{
+        margin-top: 19.5px;
+    }
+    .lov-desc-svg {
+        height: 32.3px;
+        /* padding-top: 0px; */
+        position: relative;
+        top: 25px;
+        right: 8px;
+    }
+    .get-mt-286 {
+        margin-top:0px;
+    }
+    .get-start-heading {
+        font-family: 'Nunito', sans-serif;
+        font-size: 32px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.13;
+        letter-spacing: -0.32px;
+        text-align: left;
+        color: #000000;
+    }
+    .mt-28-4 {
+        padding: 59px 0px 17.5px 0px;
+    }
+    .get-start-prg{
+        opacity: 0.6;
+        font-family: 'Nunito', sans-serif;
+        font-size: 18px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.56;
+        letter-spacing: normal;
+        text-align: left;
+        color: #000000;
+    }
+    .section-2nd-4 .form-st2{
+        margin-top: 45px;
+    }
+
+    .pb-95-3{
+        padding-bottom: 35px;
+    }
+
+    .line-style {
+        padding: 48px 0px 0 102px;
+    }
+    .sub-heading-red{
+        font-family: 'Nunito', sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: normal;
+        text-align: center;
+        color: #0e1a2a;
+        padding: 0px 44px 0 32px;
+    }
+    .ban-line2{
+    line-height: 1.5;
+    }
+    .ban-line3{
+        line-height: 1.5;
+    }
+    .txt-subline.h-12::after {
+        height: 8px;
+    }
+    .txt-subline.h-8::after {
+        height: 5px;
+    }
+    
+ .owl-dots{
+     text-align: center;
+    }
+    .mt-186{
+        margin-top: 0px;
+    }
+    .life-coach-heading{
+
+        font-family: 'Nunito', sans-serif;
+        font-size: 24px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: normal;
+        text-align: center;
+        color: #000000;
+    }
+    .section-lifecoach-other {
+        padding-bottom: 0px;
+    }
+    .mb-57{
+        margin-bottom: 57px;
+    }
+    .pd-36{
+        padding-left: 0px;
+    }
+    
+    .mb-80{
+
+        margin-bottom: 0px;
+    }
+    
+    .pd-last-cont {
+        padding: 0 0px 0 0px;
+    }
+    /* .pd-lst-sec {
+        padding: 5px 0 0 65px;
+    } */
+    .form-st2 input[type="email"]::-webkit-input-placeholder {
+        color: #000000;
+    }
+    .form-st2 input[type="text"]::-webkit-input-placeholder {
+        color: #000000;
+    }
+    .form-st2 input[type="text"]::placeholder { 
+        color: #000000; /* Modern browsers */
+    }
+    .form-st2 input[type="email"]::placeholder { 
+        color: #000000; /* Modern browsers */
+    }
+    .btn-green-shadow-lg {
+        box-shadow: 0px 15px 27px 0 rgba(125, 134, 121, 0.52);
+    }
+    .form-st2 .btn-green-shadow-lg{
+        box-shadow:0px 15px 27px 0 rgba(125, 134, 121, 0);
+    }
+    .mt-167{
+        margin-top:60.7px;
+    }
+    .ecllips {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        box-shadow: 0 3px 6px 0 rgba(14, 26, 42, 0.32);
+        background-color: #6fda44;
+        display: inline-block;
+        line-height: 1;
+        margin-bottom: 2px;
+    }
+    .lifecoach-other h2 {
+        line-height: 1.75;
+        letter-spacing: -0.32px;
+        text-align: center;
+        font-size: 24px;
+        color: #0e1a2a;
+        margin-bottom: 35px;
+    }
+     .lifecoach-accordian-heading{
+        font-size: 19px;
+        font-weight: bold;
+        line-height: 1.45;
+        color: #000;
+        position: relative;
+        padding-right: 0 ;
+        }
+}
+/*********************** media query for 411px***************************** */
+
+@media screen and (max-width: 580px){
+    .card-landing{
+        max-width: none;
+        width: auto;
+        margin:0 -15px;
+        border-radius: 0;
+    }
+}
+@media screen and (max-width: 580px){
+    .banner-landing .tlt-text .pt-1{
+        max-width: 175px;
+        margin: 12px auto;
+    }
+    .banner-landing .col-lg-3.align-items-center{
+        align-items: stretch !important;
+        height:510px;
+    }
+
+
+    .second-sec-prg{
+        font-size:18px;
+        opacity: 0.6;
+        line-height: 1.56;
+    }
+
+    .mt-71-3{
+        margin-top: 65px;
+    }
+   
+    
+    .mt-88{
+        margin-top: 800px;
+    }
+    .mt-40{
+        margin-top:40px;
+    }
+    .mb-78 {
+        margin-bottom: 50px;
+    }
+    .mt-96{
+        margin-top:96px;
+    }
+    .mt-3-88{
+        margin-top: 88px;
+    }
+    .mid-lvl-cont-1{
+        opacity: 0.6;
+        font-family: 'Nunito', sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.57;
+        letter-spacing: normal;
+        text-align: left;
+    }
+    .mid-lvl-cont-1{
+        padding-right: 0px;
+        padding-left: 0;
+    }
+    .mid-lvl-cont-2{
+        padding-right: 0;
+        padding-left: 0;
+        width: auto;
+    }
+
+    .container-ptn .display{
+        margin-bottom: 26px;
+    }
+    .heading-2{
+        font-size: 16px;
+        line-height: 1.5;
+        padding-right: 10px;
+    }
+    .prg-2{
+        line-height: 1.71;
+        font-size: 14px;
+    }
+    .sub-sec-heading {
+        font-family: 'Nunito', sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.4;
+        letter-spacing: normal;
+        text-align: center;
+        color: #000000;
+        padding: 18px 37px 0 23px;
+    }
+    .rectangle-txt{
+        font-family: 'Nunito', sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.2;
+        letter-spacing: normal;
+        color: #000000;
+    }
+    .rectangle {
+        padding: 0 25px;
+        background-color: transparent;
+    }
+    .section-banner {
+        position: relative;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+    }
+    .container-ptn{
+        padding: 0 26px 0 24px;
+    }
+    .tlt-text .pt-1{
+        font-family: 'Nunito', sans-serif;
+        font-size: 12px;
+        font-weight: 800;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: 1.8px;
+        text-align: center;
+        color: #ffffff;
+    }
+    .tlt-text .pt-2{
+        font-family: 'Nunito', sans-serif;
+        font-size: 42px;
+        font-weight: 800;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+    }
+    .tlt-text .pt-3{
+        font-family: 'Nunito', sans-serif;
+        font-size: 24px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+    }
+    .control-label {
+        font-family: 'Nunito', sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 2.29;
+        letter-spacing: normal;
+        text-align: left;
+        color: #000000;
+    }
+    .form-st2.form-control {
+        font-family: 'Nunito', sans-serif;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 2;
+        letter-spacing: normal;
+        text-align: left;
+        color: #000000;
+    }
+    
+    .form-22 .dropdown button {
+        background-color: #f6f6f6;
+        padding: 15px 20px;
+        border: 0;
+        line-height: 1.78;
+        font-size: 18px;
+        width: 100%;
+        text-align: left;
+        color: rgba(0, 0, 0, 0.7);
+    }  
+    .form-card-22 .card-body {
+        padding: 0 0px 0 0px;
+    }
+    .second-sec-heading{
+        font-family: 'Nunito', sans-serif;
+        font-size: 28px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.29;
+        letter-spacing: -0.28px;
+        text-align: center;
+        color: #000000;
+    }
+
+    .sub-section.mt-89{
+        margin-top:0;
+    }
+    .sub-section.mt-89 .sub-sec-text {
+        padding: 0;        
+    }
+    .sub-section.mt-89 .sub-sec-heading{
+        padding:0;
+    }
+    .sub-section.mt-89 .rectangle-bar{
+        padding: 0;
+    }
+
+    .pb-91-1{
+        padding-bottom: 60px;
+    }
+    .mt-65{
+        margin-top: 0px;
+    }
+   
+    .pt-250{
+        padding-top: 63px;
+    }
+    .pl1-100{
+        padding-left: 0px;
+    }
+    .ban-line1{
+        line-height: 2;
+    }
+    .ban-line2{
+        line-height: 2;
+    }
+    
+    
+   
+    .pt-240{
+        padding-top: 74px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .pt-88-6{
+        padding-top: 53.6px;
+    }
+    
+    
+    .love-2nd-heading{
+        font-family: 'Nunito', sans-serif;
+        font-size: 18px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.78;
+        letter-spacing: normal;
+        text-align: left;
+        color: #29292b;
+    }
+    .love-2nd-prg{
+        opacity: 0.75;
+        font-family: 'Nunito', sans-serif;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 0;
+        letter-spacing: normal;
+        text-align: left;
+        color: #29292b;
+    }
+    .lov-group-img{
+        height: 52px;
+    }
+    .pd-11{
+        padding:0px 18px;
+    }
+    .lov-desc-svg{
+        height: 32.3px;
+    }
+    .pd-91{
+        padding-left: 48.3px;
+    }
+    .pd-89{
+        padding-left: 51.3px;
+    }
+    .list-itm{
+        margin:0px;
+    }
+    .smile{
+        height:18px;
+    }
+   
+    .mt-pg-29{
+        margin-top: 19.5px;
+    }
+    .lov-desc-svg {
+        height: 32.3px;
+       
+        position: relative;
+        top: 25px;
+        right: 8px;
+    }
+   
+    .get-start-heading {
+        font-family: 'Nunito', sans-serif;
+        font-size: 32px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.13;
+        letter-spacing: -0.32px;
+        text-align: left;
+        color: #000000;
+    }
+    .mt-28-4 {
+        padding: 59px 0px 17.5px 0px;
+    }
+    .get-start-prg{
+        opacity: 0.75;
+        font-family: 'Nunito', sans-serif;
+        font-size: 18px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.78;
+        letter-spacing: normal;
+        text-align: left;
+        color: #000000;
+        padding-right: 0px;
+    }
+    .line-style {
+        padding: 48px 0px 0 113px;
+    }
+    .sub-heading-red{
+        font-family: 'Nunito', sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: normal;
+        text-align: center;
+        color: #0e1a2a;
+        padding: 0px 44px 0 32px;
+    }
+    .ban-line2{
+    line-height: 1.5;
+    }
+    .ban-line3{
+        line-height: 1.5;
+    }
+    .txt-subline.h-12::after {
+        height: 8px;
+    }
+    .txt-subline.h-8::after {
+        height: 5px;
+    }
+    .mybox .section-countup-st2{
+        background-image: url('last-sec2-mob-2.jpg');
+    }
+ .owl-dots{
+     text-align: center;
+    }
+    .mt-186{
+        margin-top:0px;
+    }
+    .life-coach-heading{
+
+        font-family: 'Nunito', sans-serif;
+        font-size: 24px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: normal;
+        text-align: center;
+        color: #000000;
+    }
+    .section-lifecoach-other {
+        padding-bottom: 0px;
+
+    }
+    .mb-57{
+        margin-bottom: 57px;
+    }
+    .pd-36{
+        padding-left: 0px;
+    }
+   
+    .mb-80{
+
+        margin-bottom: 0px;
+    }
+   
+    .pd-last-cont {
+        padding: 0 0px 0 0px;
+    }
+  
+    
+}
+/*********************** media query for 375px***************************** */
+
+/*********************** media query for 320px***************************** */
+
+@media screen and (max-width: 320px){
+
+    .line-style {
+        padding: 48px 0px 0 71px;
+    }
+  
+    .ol-image .list-itm .mysvg2
+    {
+    position: absolute;
+        top:118px;
+        left:10px;
+        height: 24px;
+    }
+    
+    .mid-lvl-cont-2 {
+        font-family: 'Nunito', sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: normal;
+        text-align: left;
+        color: #0e1a2a;
+        padding-right: 187px;
+        padding-left: 31px;
+    }
+    
+    /* .pd-lst-sec {
+        padding: 5px 0 0 38px;
+    } */
+}
+/*********************** media query for 319px***************************** */
+
+@media screen and (max-width: 319px){
+.mid-lvl-cont-2 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0e1a2a;
+    padding-right: 153px;
+    padding-left: 30px;
+}
+}

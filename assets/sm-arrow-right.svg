@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9.385" height="9.283" viewBox="0 0 9.385 9.283">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="arrow-right" transform="translate(.5 .707)">
+        <path id="Line_343" d="M0 0h8.385" class="cls-1" data-name="Line 343" transform="translate(0 3.935)"/>
+        <path id="Path_1863" d="M12 5l3.935 3.935L12 12.869" class="cls-1" data-name="Path 1863" transform="translate(-7.549 -5)"/>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43.754" height="36.006" viewBox="0 0 43.754 36.006">
+    <defs>
+        <style>
+            .cls-1{opacity:.4}.cls-2{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="upload-cloud" class="cls-1" transform="translate(.012 -1.996)">
+        <path id="Path_3159" d="M23.174 19.587L15.587 12 8 19.587" class="cls-2" data-name="Path 3159" transform="translate(6.282 8.069)"/>
+        <path id="Line_605" d="M0 0v17" class="cls-2" data-name="Line 605" transform="translate(21.995 20.002)"/>
+        <path id="Path_3160" d="M37.783 32.189a9.484 9.484 0 0 0-4.533-17.81h-2.39A15.174 15.174 0 1 0 4.8 28.225" class="cls-2" data-name="Path 3160"/>
+        <path id="Path_3161" d="M23.174 19.587L15.587 12 8 19.587" class="cls-2" data-name="Path 3161" transform="translate(6.282 8.069)"/>
+    </g>
+</svg>

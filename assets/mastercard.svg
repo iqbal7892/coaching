@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.993" height="20.968" viewBox="0 0 33.993 20.968">
+    <defs>
+        <style>
+            .cls-1{fill:#ee0005}.cls-2{fill:#f9a000}.cls-3{fill:#ff6300}
+        </style>
+    </defs>
+    <g id="mastercard" transform="translate(-42.06 -79.09)">
+        <circle id="Ellipse_1033" cx="10.484" cy="10.484" r="10.484" class="cls-1" data-name="Ellipse 1033" transform="translate(42.06 79.09)"/>
+        <circle id="Ellipse_1034" cx="10.484" cy="10.484" r="10.484" class="cls-2" data-name="Ellipse 1034" transform="translate(55.085 79.09)"/>
+        <path id="Path_3206" d="M206.012 115.856a10.464 10.464 0 0 0 3.971 8.215 10.484 10.484 0 0 0 0-16.431 10.465 10.465 0 0 0-3.971 8.216z" class="cls-3" data-name="Path 3206" transform="translate(-150.926 -26.283)"/>
+    </g>
+</svg>

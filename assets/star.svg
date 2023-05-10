@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69.428" height="69.486" viewBox="0 0 69.428 69.486">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.24" y1="0.106" x2="0.857" y2="1.068" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#51ffb9"/>
+      <stop offset="0.627" stop-color="#4cb2ff"/>
+      <stop offset="1" stop-color="#0bf"/>
+    </linearGradient>
+  </defs>
+  <path id="star_1_" data-name="star (1)" class="cls-1" d="M68.266,23.779l-23.225-3.3L34.719,0,24.4,20.475l-23.225,3.3L17.982,39.82,14.03,62.383,34.719,51.735l20.69,10.648L51.456,39.82ZM34.719,45.626,21.266,52.55,23.834,37.9,13.022,27.579,27.97,25.452l6.749-13.387,6.749,13.387,14.948,2.126L45.6,37.9,48.172,52.55Zm17.91-30.15-4.3-3.319L54.3,4.418l4.3,3.319Zm16.8,27.691-1.821,5.117-9.755-3.472L59.673,39.7ZM16.983,15.5l-6.11-7.74,4.263-3.365,6.11,7.74ZM9.754,39.512l1.884,5.094L1.884,48.214,0,43.12ZM32,59.032h5.431V69.487H32Zm0,0" transform="translate(0.001 -0.001)"/>
+</svg>

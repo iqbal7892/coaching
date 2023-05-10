@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54.016" height="47.625" viewBox="0 0 54.016 47.625">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <path id="heart_1_" data-name="heart (1)" class="cls-1" d="M47.708,6.855a13.16,13.16,0,0,0-18.616,0L26.556,9.391,24.02,6.855A13.163,13.163,0,0,0,5.4,25.471l2.536,2.536L26.556,46.623,45.172,28.007l2.536-2.536a13.16,13.16,0,0,0,0-18.616Z" transform="translate(0.451 -0.999)"/>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="307.731" height="307.73" viewBox="0 0 307.731 307.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #0e1a2a;
+      }
+
+      .cls-3 {
+        filter: url(#play);
+      }
+
+      .cls-4 {
+        filter: url(#Ellipse_31);
+      }
+    </style>
+    <filter id="Ellipse_31" x="0" y="0" width="307.731" height="307.73" filterUnits="userSpaceOnUse">
+      <feOffset dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="play" x="56.783" y="46.666" width="205.454" height="212.727" filterUnits="userSpaceOnUse">
+      <feOffset dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-2"/>
+      <feFlood flood-color="#6a7ed3" flood-opacity="0.451"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_4100" data-name="Group 4100" transform="translate(-10307 -2670)">
+    <g class="cls-4" transform="matrix(1, 0, 0, 1, 10307, 2670)">
+      <circle id="Ellipse_31-2" data-name="Ellipse 31" class="cls-1" cx="63.866" cy="63.866" r="63.866" transform="translate(90 60)"/>
+    </g>
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 10307, 2670)">
+      <path id="play-2" data-name="play" class="cls-2" d="M5,3,30.454,19.363,5,35.727Z" transform="translate(141.78 103.67)"/>
+    </g>
+  </g>
+</svg>

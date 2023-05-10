@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <style>
+            .cls-1{fill:#6fda44}.cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_4629" data-name="Group 4629" transform="translate(-393 -1871)">
+        <circle id="Ellipse_906" cx="16" cy="16" r="16" class="cls-1" data-name="Ellipse 906" transform="translate(393 1871)"/>
+        <path id="shield_1_" d="M69.037 21.336l1.909 1.715L61.7 33.344l-6.068-5.776L57.4 25.71l4.154 3.954z" class="cls-2" data-name="shield (1)" transform="translate(346.242 1859.156)"/>
+    </g>
+</svg>

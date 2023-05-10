@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="22" viewBox="0 0 20 22">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#6fda44;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="calendar_1_" data-name="calendar (1)" transform="translate(1 1)">
+        <rect id="Rectangle_2970" width="18" height="18" class="cls-1" data-name="Rectangle 2970" rx="2" transform="translate(0 2)"/>
+        <path id="Line_598" d="M0 0v4" class="cls-1" data-name="Line 598" transform="translate(13)"/>
+        <path id="Line_599" d="M0 0v4" class="cls-1" data-name="Line 599" transform="translate(5)"/>
+        <path id="Line_600" d="M0 0h18" class="cls-1" data-name="Line 600" transform="translate(0 8)"/>
+    </g>
+</svg>
